@@ -1,0 +1,6 @@
+[submodule "CollapseAI-WebInterface"]
+	path = CollapseAI-WebInterface
+	url = git@github.com:Yalton/CollapseAI-WebInterface.git
+[submodule "CollapsAI-UnityClient"]
+	path = CollapsAI-UnityClient
+	url = git@github.com:Yalton/CollapsAI-UnityClient.git
